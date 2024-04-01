@@ -1,4 +1,22 @@
-import type { Metadata } from "next";
+// Layout.tsx
+import React from 'react';
+
+const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) => {
+  return (
+    <div className="min-h-screen bg-blue-100 flex flex-col">
+      {/* Content area */}
+      <div className="flex-1">{children}</div>
+
+      {/* Footer */}
+      <footer className="bg-gray-800 text-white text-center py-4">
+      </footer>
+    </div>
+  );
+};
+
+export default Layout;
+
+/*import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 
@@ -20,3 +38,4 @@ export default function RootLayout({
     </html>
   );
 }
+*/
