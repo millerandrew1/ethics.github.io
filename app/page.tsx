@@ -15,9 +15,18 @@ const Article: React.FC = () => {
       <section className="mb-4">
         <h2 className="text-gray-600 text-lg mb-2">Introduction</h2>
         <p>This is a controversial topic and there are several considerations...</p>
+        <p> Primary ethical concern: Right to Data Privacy</p>
       </section>
       <section className="mb-4">
-        <h2 className="text-gray-600 text-lg mb-2">Consideration 1: Animal testing or something</h2>
+        <h2 className="text-gray-600 text-lg mb-2">Data Privacy</h2>
+        <p>Who is the most at risk? </p>
+        <p>People who need the Neuralink for medical reasons</p>
+        <p>People with spinal or other brain injuries</p>
+        <p>People with neurological disorders</p>
+        <p>Human Testers</p>
+      </section>
+      <section className="mb-4">
+        <h2 className="text-gray-600 text-lg mb-2">Animal testing or something</h2>
         <p>Animal testing is necessary before human testing but possible cruelty considerations.</p>
       </section>
       <img src="monkey.jpg" alt="Brain Human Interface" className="mx-auto mb-8 rounded-lg" style={{ width: '300px', height: 'auto' }}/>
