@@ -2,8 +2,16 @@ import React from 'react';
 
 const Article: React.FC = () => {
   return (
+    <div style={{
+      display: 'flex',
+      justifyContent: 'center',
+      alignItems: 'center',
+      height: '100vh'
+  }}>
     <div className="font-sans max-w-2xl mx-auto bg-blue-100 p-8 rounded-lg">
       <h1 className="text-center text-gray-800 text-2xl mb-4">Brain Human Interface</h1>
+      <img src="brain_logo.jpg" alt="logo" className="absolute top-0 left-0 w-8 h-8" />
+
       <section className="mb-4">
         <h2 className="text-gray-600 text-lg mb-2">Introduction</h2>
         <p>This is a controversial topic and there are several considerations...</p>
@@ -31,6 +39,7 @@ const Article: React.FC = () => {
         <p>In conclusion, ...</p>
       </section>
     </div>
+  </div>
   );
 };
 
