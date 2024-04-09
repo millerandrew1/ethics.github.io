@@ -1,3 +1,24 @@
+
+Site overview:
+
+1. Background
+
+2. Problem Statement
+
+3. Ecosystem
+
+4. Neuralink
+
+5. References (links and people contacted)
+
+6. Lessons Learned
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
