@@ -8,7 +8,7 @@ Site overview:
 3. Ecosystem
 
 4. Neuralink
-
+ 
 5. References (links and people contacted)
 
 6. Lessons Learned
