@@ -1,3 +1,20 @@
+Script:
+
+Thomas:
+Our teams problem statement is that with the Neuralink company creating a chip that attaches itself to the brain and is able to see various brain waves and thoughts how are consumers specifically disabled people’s data going to be protected.
+
+Tanner:
+We feel that the disabled people are most likely at risk of their data being sold or stolen as neuralink is advertising the brain chip as a way to help people with disabilities be able to overcome those disabilities.
+
+Andrew:
+In order to solve this dilemma a possible solution is to make sure Neuralink is following the consumers right to cognitive liberty, the right to mental privacy, the right to mental integrity, and the right to psychological continuity. To do this we need Neuralink to be more transparent to the public about their intentions with the data they collect and how they plan on keeping those consumer rights.
+
+Roshan:
+We are going to spread awareness about this ethical dilemma by creating a website to spread awareness about this issue and hopefully bring awareness to the fact that if they sign up for this their privacy might be in jeopardy.
+
+
+
+
 
 Site overview:
 
