@@ -1,7 +1,7 @@
 Script:
 
 Thomas:
-Neuralink and several other tech companies are working to create a brain-human interface to read brain waves and understand how they correspond to user thoughts. The problem our group is looking to investigate is how this user data is protected and how vulnerable groups are going to be affected by this technology.
+Neuralink and several other tech companies are working to create a brain-computer interface to read brain waves and understand how they correspond to user thoughts. The problem our group is looking to investigate is how this user data is protected and how vulnerable groups are going to be affected by this technology.
 
 Tanner:
 We feel that the disabled people are most likely at risk of their data being sold or stolen as neuralink is advertising the brain chip as a way to help people with disabilities be able to overcome those disabilities.
