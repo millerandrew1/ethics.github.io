@@ -26,15 +26,6 @@ const Article: React.FC = () => {
       </section>
 
       <section className="mb-4">
-        <h2 className="text-white-600 font-bold text-lg mb-2">Ecosystem</h2>
-        <p>High level employees and stakeholders</p>
-        <p>Types of software and hardware engineers</p>
-        <p>Government and regulatory bodies</p>
-        <p>Human testers</p>
-        <p>General public</p>
-        </section>
-
-        <section className="mb-4">
         <h2 className="text-white-600 font-bold text-lg mb-2">Ethical Considerations</h2>
         <p>Our team realized the pace of neural implant development is rapidly increasing, which led us to consider who is most at risk due to this technology. 
           This technology has many potential applications but, at the current state, it is mostly aimed to help those with spinal cord injuries. </p>
@@ -59,6 +50,17 @@ const Article: React.FC = () => {
 </p>
       </section>
 
+
+      <section className="mb-4">
+        <h2 className="text-white-600 font-bold text-lg mb-2">Ecosystem</h2>
+        <p>High level employees and stakeholders</p>
+        <p>Types of software and hardware engineers</p>
+        <p>Government and regulatory bodies</p>
+        <p>Human testers</p>
+        <p>General public</p>
+        </section>
+
+      
       <section className="mb-4">
       
         <h2 className="text-white-600 font-bold text-lg mb-2">Solutions</h2>
@@ -103,8 +105,18 @@ const Article: React.FC = () => {
         <p>{"[3] https://blogs.ischool.berkeley.edu/w231/2021/07/09/brain-machine-interfaces-and-neuralink-privacy-and-ethical-concerns/"}</p>
         <p>{"[4] https://www.fastcompany.com/91029453/unpacking-the-ethical-issues-swirling-around-neuralink"}</p>
 
-        <p>People contacted</p>
-        
+        <br></br>
+        <h2 className="text-white-600 font-bold text-lg mb-2">People Contacted</h2>
+        <p>Ruthie Forney</p>
+        <p>  Product Development Leader at Precision Neuroscience</p>
+         <p> No response</p><br></br>
+        <p>  Randy Glein</p>
+        <p>  Tech Investor for Neuralink</p>
+         <p> No response </p><br></br>
+         <p> Michael Moran</p>
+          <p>Production facility coordinator for Neuralink & SpaceX</p>
+          <p>No response
+</p>
       </section>
 
 
