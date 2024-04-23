@@ -34,6 +34,15 @@ const Article: React.FC = () => {
         <p>General public</p>
         </section>
 
+        <section className="mb-4">
+        <h2 className="text-white-600 font-bold text-lg mb-2">Data Privacy</h2>
+        <p>Who is the most at risk? </p>
+        <p>People who need the Neuralink for medical reasons</p>
+        <p>People with spinal or other brain injuries</p>
+        <p>People with neurological disorders</p>
+        <p>Human Testers</p>
+      </section>
+
       <section className="mb-4">
       
         <h2 className="text-white-600 font-bold text-lg mb-2">Solutions</h2>
@@ -47,8 +56,21 @@ const Article: React.FC = () => {
           <br></br><p>   Another thing that can help solve this ethical dilemma is for Neurolink to be transparent with their users and inform them of everything that they plan to collect, and do with the data. The customers should be fully informed and given the choice to not have their data collected or be able to opt out at any time.
 </p>
         
-
+<br></br>
        
+      <section>
+        <h2 className="text-white-600 font-bold text-lg mb-2">Societal Impact</h2>
+        <p>How will this affect society? What does this mean for our future?</p><br></br>
+      </section>
+      <section>
+        <h2 className="text-white-600 font-bold text-lg mb-2">Benefits</h2>
+        <p>Despite the danger involved, this technology could provide a lot of good outcomes on society</p>
+        <p> People with spinal injuries and other medical uses</p><br></br>
+      </section>
+      <section>
+        <h2 className="text-white-600 font-bold text-lg mb-2">Lessons Learned</h2>
+        <p>In conclusion, ...</p>
+      </section>
 
       </section>
 
@@ -60,36 +82,7 @@ const Article: React.FC = () => {
       </section>
 
 
-      <section className="mb-4">
-        <h2 className="text-white-600 font-bold text-lg mb-2">Data Privacy</h2>
-        <p>Who is the most at risk? </p>
-        <p>People who need the Neuralink for medical reasons</p>
-        <p>People with spinal or other brain injuries</p>
-        <p>People with neurological disorders</p>
-        <p>Human Testers</p>
-      </section>
-      <section className="mb-4">
-        <h2 className="text-white-600 font-bold text-lg mb-2">Animal testing or something</h2>
-        <p>Animal testing is necessary before human testing but possible cruelty considerations.</p>
-      </section>
-      <img src="monkey.jpg" alt="Brain Human Interface" className="mx-auto mb-8 rounded-lg" style={{ width: '300px', height: 'auto' }}/>
-      <section className="mb-4">
-        <h2 className="text-white-600 font-bold text-lg mb-2">Human testing</h2>
-        <p>This is dangerous ... blah blah blah</p>
-      </section>
-      <section>
-        <h2 className="text-white-600 font-bold text-lg mb-2">Societal Impact</h2>
-        <p>How will this affect society? What does this mean for our future?</p>
-      </section>
-      <section>
-        <h2 className="text-white-600 font-bold text-lg mb-2">Benefits</h2>
-        <p>Despite the danger involved, this technology could provide a lot of good outcomes on society</p>
-        <p> People with spinal injuries and other medical uses</p>
-      </section>
-      <section>
-        <h2 className="text-white-600 font-bold text-lg mb-2">Lessons Learned</h2>
-        <p>In conclusion, ...</p>
-      </section>
+      
     </div>
   </div>
   );
