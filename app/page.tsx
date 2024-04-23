@@ -39,8 +39,12 @@ const Article: React.FC = () => {
         <h2 className="text-white-600 font-bold text-lg mb-2">Solutions</h2>
       
         <p>     In order to protect people’s private data one potential solution is to make sure that companies implement strong protocols that in the case the data gets hacked the hacker will not be able to see the data. Luckily we talked with Kostas Hatzianestis, Head of Wireless and System Integration at Precision Neuroscience, and he assured us that “digital data encryption is common in protecting private data.” </p>
-          <p>   However when doing research on he subject we looked at other medical devices that also store data like Pacemakers. Pacemakers are subject to strict regulations to ensure confidentiality and prevent unauthorized access. They must adhere to laws such as HIPAA (Health Insurance Portability and Accountability Act). The Neuralink however, since it is so new, has not had any sort of regulations placed on it. Due to the fact that the implant will be on the brian it will have access to very sensitive information so it is important that regulations are put in place to protect the users. </p>
-          <p></p><p>   Another thing that can help solve this ethical dilemma is for Neurolink to be transparent with their users and inform them of everything that they plan to collect, and do with the data. The customers should be fully informed and given the choice to not have their data collected or be able to opt out at any time.
+         <br></br></section>
+      <img src="project.png" alt="Brain Human Interface" className="mx-auto mb-8 rounded-lg" style={{ width: '150px', height: 'auto' }}/>     <p>Kostas Hatzianestis - Head of Wireless and System Integration at Precision Neuroscience
+</p>
+      <section className="mb-4">
+   <br></br> <p>   However when doing research on he subject we looked at other medical devices that also store data like Pacemakers. Pacemakers are subject to strict regulations to ensure confidentiality and prevent unauthorized access. They must adhere to laws such as HIPAA (Health Insurance Portability and Accountability Act). The Neuralink however, since it is so new, has not had any sort of regulations placed on it. Due to the fact that the implant will be on the brian it will have access to very sensitive information so it is important that regulations are put in place to protect the users. </p>
+          <br></br><p>   Another thing that can help solve this ethical dilemma is for Neurolink to be transparent with their users and inform them of everything that they plan to collect, and do with the data. The customers should be fully informed and given the choice to not have their data collected or be able to opt out at any time.
 </p>
         
 
