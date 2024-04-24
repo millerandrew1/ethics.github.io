@@ -99,7 +99,12 @@ const Article: React.FC = () => {
       </section>
       <section>
         <h2 className="text-white-600 font-bold text-lg mb-2">Lessons Learned</h2>
-        <p>In conclusion, ...</p>
+        <p>During the completion of this project, one of the lessons we learned was that ethical issues surrounding emerging technologies are complex and require careful consideration from multiple angles. Many times, issues like bias and prejudice can get in the way of properly examining ethics, therefore, it is important to be honest and impartial.
+          Another lesson we learned came from contacting relevant stakeholder. While it was challenging to get a response that was helpful to us, we developed effective strategies that helped us, such as research and targeting, regular updates and communication within our group, and using various media outlets to reach out. 
+          Additionally, the importance of transparency in technology, especially concerning data privacy and consumer rights, was something we all learned as well. No matter what the new technology or breakthrough is, there is always a necessity to check for any outlying ethical issues that may pop up currently or even in the future. 
+          We used various ethical decision-making frameworks, such as utilitarianism and principle-based ethics, to evaluate options and navigate complex dilemmas effectively. 
+          Our project emphasized the need for ongoing learning and adaptation to address evolving ethical challenges like bias, discrimination, and privacy.
+</p>
       </section>
 
       </section>
