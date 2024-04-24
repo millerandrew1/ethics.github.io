@@ -16,13 +16,13 @@ const Article: React.FC = () => {
       <section className="mb-4">
         <h2 className="text-white-600 font-bold text-lg mb-2">Background</h2>
         <p>Neuralink is a company that is developing implantable brain–machine interfaces (BMIs). 
-          The company was founded by Elon Musk and eight others, and is focused on creating devices that can be implanted in the human brain, with the eventual purpose of helping human beings merge with software and keep pace with advancements in artificial intelligence.</p>
-        <p>This is a controversial topic and there are several considerations but the most central is the right to data privacy.</p>
+          The company was founded by Elon Musk and seven others, and is focused on creating devices that can be implanted in the human brain, with the eventual purpose of helping human beings merge with software and keep pace with advancements in artificial intelligence.</p>
+        <p>This is a controversial topic and there are several considerations, but our focus will be the right to data privacy.</p>
       </section>
 
       <section className="mb-4">
         <h2 className="text-white-600 font-bold text-lg mb-2">Problem Statement</h2>
-        <p>People who get the neurolink chips implanted into their heads are at risk of having their private data be insecure due to lack of regulations regarding the chip implant.</p>
+        <p>Individuals, especially those who are disabled, that receive a brain-machine implant such as Neuralink could risk breaches or unethical uses of their private data, especially due to the absence of updated regulations.</p>
       </section>
 
       <section className="mb-4">
@@ -53,11 +53,17 @@ const Article: React.FC = () => {
 
       <section className="mb-4">
         <h2 className="text-white-600 font-bold text-lg mb-2">Ecosystem</h2>
-        <p>High level employees and stakeholders</p>
-        <p>Types of software and hardware engineers</p>
-        <p>Government and regulatory bodies</p>
-        <p>Human testers</p>
-        <p>General public</p>
+        <p>During our research, we identified two main companies that are focused on creating brain-machine interfaces.</p>
+        <br></br>
+        <p>The first, and most recognizable, company is Neuralink, as previously mentioned. Neuralink has performed human trials, and have reportedly enabled a paralyzed individual to control a computer mouse with their mind. The company has faced scrutiny for ethical issues realted to animal testing, and no employees responded to our requests for a comment.</p>
+        <br></br>
+        <p>The second company we have identified is Precision Neuroscience, founded in 2021 by Benjamin Rapoport, a cofounder of Neuralink, as well as Demetrios Papageorgiou and Mark Hettick. The company is focused on creating a device that requires the most minimally invasive surgery, and has performed human trials.</p>
+        <br></br>
+        <p>During our research, we made contact with Kostas Hatzianestis from Precision Neuroscience, and his comments are mentioned below.</p>
+        <br></br>
+        <p>The most important, and most vulnerable, members of this ecosystem are the patients undergoing the surgery.  At this time, all devices are being targeted towards disabled individuals.  Our chief concern is the privacy of the data of the user, which should be protected to the highest degree.  Disabled individuals have been historically marginalized, and a lapse in ethical procedures or regulations could have real consequences. Furthermore, individuals such as Elon Musk have expressed their desire to move beyond only disabled persons and produce implants for able-bodied individuals, which will drastically increase the scale of privacy concerns.</p>
+        <br></br>
+        <p>These privacy concerns should therefore be addressed from the start, with comprehensive regulations for user privacy or an inclusion into HIPPA laws, which will ensure that the public is protected.</p>
         </section>
 
       
